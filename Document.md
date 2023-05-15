@@ -9,6 +9,6 @@
 
 ## Examples 
 
-## External resources
+## Related or external resources
 
 ## Conclusion and recommendations if related
