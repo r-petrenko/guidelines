@@ -1,6 +1,6 @@
 # Title
 #### Target group
-##Justification for document
+## Justification for document
 
 ## Main diagram
 
