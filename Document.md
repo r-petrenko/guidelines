@@ -11,4 +11,4 @@
 
 ## External resources
 
-## Conclusion if related
+## Conclusion and recommendations if related
